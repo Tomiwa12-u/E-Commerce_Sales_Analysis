@@ -1,6 +1,11 @@
 # E-Commerce Sales Analysis
 ## Project Overview
 This project presents an end-to-end analysis of an E-Commerce Sales dataset using Microsoft Excel. The analysis focuses on data cleaning, exploratory data analysis (EDA), and chart visualizations to uncover meaningful business insights that can support data-driven decision-making.
+## Project Access 
+[Check out my work here](E-Commerce_Sales_Analysis)
+
+<img width="631" height="412" alt="Visualization png" src="https://github.com/user-attachments/assets/bd80334c-8d4b-4cb7-8c91-8d3e009ca158" />
+
 ## Objectives 
 - Clean and prepare raw sales data.
 - Perform exploratory data analysis (EDA).
